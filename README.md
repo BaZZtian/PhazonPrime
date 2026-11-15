@@ -4,6 +4,8 @@
 
 <h1 align="center">PhazonPrime</h1>
 
+<p align="center"><img src="sce_sys/background.png" alt="PhazonPrime PlayStation 5 background"></p>
+
 <p align="center">
   <strong>Metroid Prime on PlayStation 5</strong><br>
   An unofficial native PS5 homebrew port based on Metaforce classic, maintained by <a href="https://github.com/BaZZtian">BaZZtian</a>.
