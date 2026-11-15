@@ -42,7 +42,7 @@ input and app-local storage. You supply your own supported GameCube disc image.
 
 ## Status and availability
 
-**Install on PS5:** [Download PhazonPrime v00.001.036](https://github.com/BaZZtian/PhazonPrime-PS5/releases/download/v00.001.036/PhazonPrime-v00.001.036-PS5.zip).
+**Install on PS5:** [Download PhazonPrime]
 
 | Download | Purpose | Install it? |
 | --- | --- | --- |
